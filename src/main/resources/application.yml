@@ -1,0 +1,6 @@
+ycy:
+  test:
+    hello:
+      prefix: Action-A
+      suffix: Hello world-A
+
